@@ -17,7 +17,7 @@
 #
 #   This module is just an example (m1e, note the 'e').  After you have read
 #   and run the code, feel free to play with it briefly, then move on to m2.
-#
+# that darn thing hmmm
 ###############################################################################
 
 print('Hello, World')
